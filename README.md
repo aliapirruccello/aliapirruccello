@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<p align=”center”>
+<img width="200" height="200" src=”![aliaPirruccelloSoftwareEngineerLogo](https://user-images.githubusercontent.com/98843063/165373259-a1e57022-f433-4e4e-bf94-7528ead1162a.png)" alt=”my banner”>
+</p>
 <!--
 **aliapirruccello/aliapirruccello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
