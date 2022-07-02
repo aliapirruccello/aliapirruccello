@@ -31,7 +31,7 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Deluxe Nail Lounge</h3>
+          <h3 align="center">Nail Lounge Site</h3>
           <p align="center">
             <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177007139-32f881fe-c26f-4335-8c31-dd105e5dad31.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://deluxenaillounge.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
@@ -53,12 +53,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
+          <h3 align="center">Chiropractor Site</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/aliapirruccello/capitalChiro" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177008086-16154162-8d9a-4f9f-8145-baa9704dea94.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/aliapirruccello/capitalChiro" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://capitalchiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
+               HTML5, CSS3, & Javascript - Client Site including contact form.
             </p>
           </p>
         </td>
