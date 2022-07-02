@@ -25,7 +25,7 @@
             <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177006359-69be4499-d030-47ce-a5d6-c9b7ddd8fbb9.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://takemetoflavortown.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              A full stack dinner API to give inspiration to meal ideas.
+              A full stack dinner app to give inspiration to meal ideas.
             </p>
           </p>
         </td>
@@ -35,7 +35,7 @@
             <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177007139-32f881fe-c26f-4335-8c31-dd105e5dad31.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://deluxenaillounge.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              HTML5, CSS3, & Javascript - Client Site including contact form.
+              HTML5, CSS3, & Javascript - Client Site
             </p>
           </p>
         </td>
@@ -47,7 +47,7 @@
             <a href="https://github.com/aliapirruccello/aliaRoseStylist" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177007642-1853f4e0-0ea9-4ce8-88d9-08db794fe92c.gif" alt="project example"/> </a>
          <span> <a href="https://github.com/aliapirruccello/aliaRoseStylist" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://aliarosestylist.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
-              HTML5, CSS3, & Javascript - Client Site including contact form.
+              HTML5, CSS3, & Javascript - Client Site
             </p>
           </p>
         </td>
@@ -57,7 +57,7 @@
             <a href="https://github.com/aliapirruccello/capitalChiro" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177008086-16154162-8d9a-4f9f-8145-baa9704dea94.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/aliapirruccello/capitalChiro" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://capitalchiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-               HTML5, CSS3, & Javascript - Client Site including contact form.
+               HTML5, CSS3, & Javascript - Client Site
             </p>
           </p>
         </td>
