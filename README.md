@@ -1,6 +1,5 @@
 
-
-<img align="center" src="https://user-images.githubusercontent.com/98843063/165373259-a1e57022-f433-4e4e-bf94-7528ead1162a.png" alt="aliaSoftwareEngineer"/>
+<img align="center" alt="aliaNewLogoPurple" src="https://user-images.githubusercontent.com/98843063/177009234-a841ed19-8a0e-4718-bda3-6b344da45478.png">
 
 
 <h1 align="center">Hi 👋, I'm Alia</h1>
