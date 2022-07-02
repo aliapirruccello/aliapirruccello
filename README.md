@@ -13,6 +13,71 @@
 - 📫 Email me at [alia.pirruccello@gmail.com](mailto:alia.pirruccello@gmail.com)
 
 
+
+
+
+<h2 align="left">Projects:</h2>
+<div align="center">
+  <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Flavortown</h3>
+          <p align="center">
+            <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177006359-69be4499-d030-47ce-a5d6-c9b7ddd8fbb9.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://takemetoflavortown.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              A full stack dinner API to give inspiration to meal ideas.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Deluxe Nail Lounge</h3>
+          <p align="center">
+            <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177007139-32f881fe-c26f-4335-8c31-dd105e5dad31.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://deluxenaillounge.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              HTML5, CSS3, & Javascript - Client Site including contact form.
+            </p>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Hair Stylist Site</h3>
+          <p align="center">
+            <a href="https://github.com/aliapirruccello/aliaRoseStylist" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177007642-1853f4e0-0ea9-4ce8-88d9-08db794fe92c.gif" alt="project example"/> </a>
+         <span> <a href="https://github.com/aliapirruccello/aliaRoseStylist" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://aliarosestylist.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <p align="center">
+              HTML5, CSS3, & Javascript - Client Site including contact form.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
+          <p align="center">
+            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
+            </p>
+          </p>
+        </td>
+      </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
