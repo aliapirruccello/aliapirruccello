@@ -25,7 +25,7 @@
             <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177006359-69be4499-d030-47ce-a5d6-c9b7ddd8fbb9.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://takemetoflavortown.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              A full stack dinner app to give inspiration to meal ideas.
+              HTML5, CSS3, Javascript, Node.js & MongoDB - full stack dinner app
             </p>
           </p>
         </td>
