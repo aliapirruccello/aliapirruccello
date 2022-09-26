@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alia</h1>
 <h3 align="center">A full stack software engineer from Alexandria, VA.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 💼 Accepting new clients. Check out my [portfolio!](https://aliapirruccello.com)
 
@@ -55,7 +55,7 @@
           <h3 align="center">Chiropractor Site</h3>
           <p align="center">
             <a href="https://github.com/aliapirruccello/capitalChiro" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177008086-16154162-8d9a-4f9f-8145-baa9704dea94.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/aliapirruccello/capitalChiro" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://capitalchiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/aliapirruccello/alexandriaChiro" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://alexandriachiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
                HTML5, CSS3, & Javascript - Client Site
             </p>
