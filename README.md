@@ -58,7 +58,6 @@
             <span> <a href="https://github.com/aliapirruccello/alexandriaChiro" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://alexandriachiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
                HTML5, CSS3, & Javascript - Client Site
-               
             </p>
           </p>
         </td>
