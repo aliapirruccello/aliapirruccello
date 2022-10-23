@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alia</h1>
 <h3 align="center">A full stack software engineer from Alexandria, VA.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Data Structures & Algorithms**
 
 - 💼 Accepting new clients. Check out my [portfolio!](https://aliapirruccello.com)
 
