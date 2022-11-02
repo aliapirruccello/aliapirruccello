@@ -109,10 +109,11 @@
 
 <p align="center">
 <a href="https://twitter.com/apirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199490389-84302298-60ac-42af-81cd-35ccbec11222.png" alt="aliaTwitter" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199492278-66b1d353-2111-4fa0-8a03-70fd90bc519c.png" alt="linkedin" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199492719-971d0504-39bc-4868-8b27-763ab72c23fe.png" alt="linkedin" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/aliapirruccello/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="github" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:alia.pirruccello@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/199492080-76ccc0c6-d95f-40e9-8f1a-0f086b423498.png" alt="email me here" height="40"/></a>
 </p>
+
 
 
 
