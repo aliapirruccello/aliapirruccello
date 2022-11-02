@@ -33,7 +33,7 @@
           <h3 align="center">Nail Lounge Site</h3>
           <p align="center">
             <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177007139-32f881fe-c26f-4335-8c31-dd105e5dad31.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://deluxenaillounge.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/aliapirruccello/deluxeNailLounge" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://deluxenaillounge.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               HTML5, CSS3, & Javascript - Client Site
             </p>
@@ -45,7 +45,7 @@
           <h3 align="center">Photography Site</h3>
           <p align="center">
             <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/197877535-ed51c3ec-d935-4efb-85fd-d8040f3d7658.gif" alt="project example"/> </a>
-         <span> <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://ashleyjoyphotography.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
+         <span> <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://ashleyjoyphotography.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a></span>
             <p align="center">
               HTML5, CSS3, & Javascript - Client Site
             </p>
@@ -55,7 +55,7 @@
           <h3 align="center">Chiropractor Site</h3>
           <p align="center">
             <a href="https://github.com/aliapirruccello/alexandriaChiro" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/192401449-d147cabf-8065-41ab-b61b-0767af4a7369.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/aliapirruccello/alexandriaChiro" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://alexandriachiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/aliapirruccello/alexandriaChiro" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://alexandriachiropractic.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a> </span>
             <p align="center">
                HTML5, CSS3, & Javascript - Client Site
             </p>
