@@ -23,7 +23,7 @@
           <h3 align="center">Flavortown</h3>
           <p align="center">
             <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/177006359-69be4499-d030-47ce-a5d6-c9b7ddd8fbb9.gif" alt="project example"/> </a><br>
-            <span> <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199484223-caf56a11-3e0c-4e93-9386-1086e8d298d7.png" alt="button to repository" height ="25px"></a> <a href="https://takemetoflavortown.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://takemetoflavortown.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               HTML5, CSS3, Javascript, Node.js & MongoDB
             </p>
