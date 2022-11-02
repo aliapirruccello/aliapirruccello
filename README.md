@@ -72,17 +72,16 @@
 
 
 
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/98843063/175435408-9decbf2b-02b6-412a-81d8-8e89c89c29d0.svg" alt="html5" height="70"/>
+        <img src="https://user-images.githubusercontent.com/98843063/199494710-efff5203-9a62-433e-9f67-ea6b45435ed2.png" alt="html5" height="70"/>
     </a>&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/98843063/199494008-cf478f59-c2f6-4871-bc08-ea44cc6ec426.png" alt="css3" height="70"/>
     </a> &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://user-images.githubusercontent.com/98843063/175435695-fcef0aa6-8191-470e-8368-b87363d7fd17.svg" alt="javascript" height="70"/> 
+      <img src="https://user-images.githubusercontent.com/98843063/199494596-9b67c601-efa0-4770-affb-5cd23ac9f32a.png" alt="javascript" height="70"/> 
     </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/98843063/199492506-83373526-8689-4f75-a395-900dc742f528.png" alt="git" height="70"/>
