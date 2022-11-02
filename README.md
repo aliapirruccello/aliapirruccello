@@ -73,17 +73,13 @@
 
 
 
-
-
-
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/98843063/175435408-9decbf2b-02b6-412a-81d8-8e89c89c29d0.svg" alt="html5" height="70"/>
     </a>&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/98843063/175435584-d2c85d31-a805-4c1b-b2d2-f17ad9bae1fb.svg" alt="css3" height="70"/>
+      <img src="https://user-images.githubusercontent.com/98843063/199494008-cf478f59-c2f6-4871-bc08-ea44cc6ec426.png" alt="css3" height="70"/>
     </a> &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/98843063/175435695-fcef0aa6-8191-470e-8368-b87363d7fd17.svg" alt="javascript" height="70"/> 
@@ -101,7 +97,7 @@
       <img src="https://user-images.githubusercontent.com/98843063/199492409-3c130430-d554-49ad-8b3f-fd00a2a91c09.png" alt="react" height="70"/> 
     </a> &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/98843063/175436105-9412de70-d9e8-4b83-a641-6e324cc3b7aa.svg" alt="nodejs" height="70"/> 
+      <img src="https://user-images.githubusercontent.com/98843063/199493927-784868fd-b554-45f1-a526-d010b106af0b.png" alt="nodejs" height="70"/> 
     </a> 
   </p>
 
