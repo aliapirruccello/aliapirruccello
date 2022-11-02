@@ -89,7 +89,7 @@
       <img src="https://user-images.githubusercontent.com/98843063/175435695-fcef0aa6-8191-470e-8368-b87363d7fd17.svg" alt="javascript" height="70"/> 
     </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://user-images.githubusercontent.com/98843063/175435757-b70e25e9-cb81-4d0e-be5a-d5895091d48a.svg" alt="git" height="70"/>
+      <img src="https://user-images.githubusercontent.com/98843063/199492506-83373526-8689-4f75-a395-900dc742f528.png" alt="git" height="70"/>
     </a> <br> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/98843063/199489933-61ec7414-aeb2-49b4-9f67-bee3c9e68217.png" alt="mongodb" height="70"/> 
@@ -98,7 +98,7 @@
       <img src="https://user-images.githubusercontent.com/98843063/175435998-fdf22fb9-9c26-46ae-aaee-0779316e3ad5.svg" alt="express" height="70"/> 
     </a> &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://user-images.githubusercontent.com/98843063/175436070-248f31af-fae8-4519-93d8-3d13b5c7299d.svg" alt="react" height="70"/> 
+      <img src="https://user-images.githubusercontent.com/98843063/199492409-3c130430-d554-49ad-8b3f-fd00a2a91c09.png" alt="react" height="70"/> 
     </a> &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/98843063/175436105-9412de70-d9e8-4b83-a641-6e324cc3b7aa.svg" alt="nodejs" height="70"/> 
@@ -109,11 +109,10 @@
 
 <p align="center">
 <a href="https://twitter.com/apirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199490389-84302298-60ac-42af-81cd-35ccbec11222.png" alt="aliaTwitter" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199490769-9ce8e3c9-354a-4a02-a3a2-2026bb787b19.png" alt="linkedin" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/aliapirruccello/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:alia.pirruccello@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436782-400c270c-1f16-4f26-bd91-f0dbad1e0dc0.svg" alt="biancatogonon" height="40"/></a>
+<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199492278-66b1d353-2111-4fa0-8a03-70fd90bc519c.png" alt="linkedin" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/aliapirruccello/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="github" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:alia.pirruccello@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/199492080-76ccc0c6-d95f-40e9-8f1a-0f086b423498.png" alt="email me here" height="40"/></a>
 </p>
-
 
 
 
