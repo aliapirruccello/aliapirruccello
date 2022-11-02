@@ -109,7 +109,7 @@
 
 <p align="center">
 <a href="https://twitter.com/apirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199490389-84302298-60ac-42af-81cd-35ccbec11222.png" alt="aliaTwitter" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436637-b715b635-5fb2-46bd-87f7-defcb2710121.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/199490769-9ce8e3c9-354a-4a02-a3a2-2026bb787b19.png" alt="linkedin" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/aliapirruccello/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:alia.pirruccello@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436782-400c270c-1f16-4f26-bd91-f0dbad1e0dc0.svg" alt="biancatogonon" height="40"/></a>
 </p>
