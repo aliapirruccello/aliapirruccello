@@ -22,7 +22,7 @@
         <td width="50%">
           <h3 align="center">Flavortown</h3>
           <p align="center">
-            <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/205182027-5bdd897f-08c1-4125-ad27-9e13013ac77a.gif" alt="project example"/> </a><br>
+            <a href="https://github.com/aliapirruccello/alia-dinner-api" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/205182721-5f21e52f-a467-44e2-abdb-24a552ddfbde.gif" alt="project example"/> </a><br>
             <span> <a href="https://github.com/aliapirruccello/flavortown" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://flavortown.cyclic.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               HTML5, CSS3, Javascript, Node.js & MongoDB
