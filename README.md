@@ -42,12 +42,12 @@
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">Photography Site</h3>
+          <h3 align="center">Guide to Vote</h3>
           <p align="center">
-            <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/209580892-62a01184-13f9-4480-a097-5f86f87538bc.gif"   alt="project example"/> </a>
-         <span> <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://ashleyjoyphotography.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a></span>
+            <a href="https://github.com/aliapirruccello/make-a-plan-to-vote" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/209580892-62a01184-13f9-4480-a097-5f86f87538bc.gif"   alt="project example"/> </a>
+         <span> <a href="https://github.com/aliapirruccello/make-a-plan-to-vote" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://make-a-plan-to-vote.netlify.app" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a></span>
             <p align="center">
-              HTML5, CSS3, & Javascript - Client Site
+              React, CSS3, & Javascript
             </p>
           </p>
         </td>
