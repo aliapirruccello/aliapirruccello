@@ -44,7 +44,7 @@
         <td width="50%">
           <h3 align="center">Photography Site</h3>
           <p align="center">
-            <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/197877535-ed51c3ec-d935-4efb-85fd-d8040f3d7658.gif" alt="project example"/> </a>
+            <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98843063/209580754-45ca5f23-a432-4164-9884-707e8d4e4443.mp4" alt="project example"/> </a>
          <span> <a href="https://github.com/aliapirruccello/ashleyJoyPhotography" target="_blank" rel="noreferrer""><img src="https://user-images.githubusercontent.com/98843063/199485333-322f3048-4bfa-4e92-ab6c-3387f7a46c91.png" alt="button to repository" height ="25px"></a> <a href="https://ashleyjoyphotography.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98843063/199484807-7ac40a86-3da0-421a-b3df-9ba957d4bfb8.png" alt="button to live site" height="25px"></a></span>
             <p align="center">
               HTML5, CSS3, & Javascript - Client Site
