@@ -4,4 +4,4 @@
 
 <h1 align="center">Hi 👋, I'm Alia</h1>
 <h2 align="center">A full stack software engineer from Alexandria, VA.</h2>
-<h3 align="center">📫 Email me at [alia.pirruccello@gmail.com](mailto:alia.pirruccello@gmail.com)</h3>
+Email me at [alia.pirruccello@gmail.com](mailto:alia.pirruccello@gmail.com) 
